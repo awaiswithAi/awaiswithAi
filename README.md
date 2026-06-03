@@ -1,5 +1,4 @@
 Hi, I'm Awais Sheikh 👋
-
 AI Engineering Learner · Python Developer · Pakistan 🇵🇰
 
 Building my path into AI Engineering through Python, NumPy, and hands-on projects — one line of code at a time.
@@ -14,6 +13,19 @@ I'm a self-driven developer from Pakistan focused on building a solid foundation
 🤔 Looking for Help With: Strengthening my Python, NumPy, and AI Engineering skills
 💬 Ask Me About: Python basics, NumPy, and starting your AI journey from scratch
 ⚡ Fun Fact: I learn best by building things step by step — no shortcuts
+
+
+🚀 Projects
+🧮 Calculator — Python
+A functional calculator built in Python covering core arithmetic operations.
+
+Focus: Python fundamentals, functions, and control flow
+
+
+📊 NumPy Practice Repository
+Hands-on NumPy exercises covering arrays, operations, and data manipulation for AI/ML foundations.
+
+Focus: Array operations, broadcasting, mathematical functions
 <!-- Snake Game Repo View -->
 
 <div align="center">
