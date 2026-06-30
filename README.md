@@ -1,29 +1,31 @@
 Hi, I'm Awais Sheikh 👋
-AI Engineering Learner · Python Developer · Pakistan 🇵🇰
+Cybersecurity Learner · Python Developer · Pakistan 🇵🇰
 
-Building my path into AI Engineering through Python, NumPy, and hands-on projects — one line of code at a time.
-
+Building my path in Cybersecurity and AI by combining strong fundamentals with practical, hands-on experience — one step at a time.
 
 🧠 About Me
-I'm a self-driven developer from Pakistan focused on building a solid foundation in AI Engineering, Machine Learning, and Data Science. I believe in learning by doing — every project teaches me something new.
+I'm a self-driven learner from Pakistan focused on Cybersecurity (especially Cloud Security) along with Python-based data handling and analysis. I believe in learning by doing — applying concepts through real tools and platforms to build practical skills.
 
-🔭 Currently Working On: Python projects including a Calculator and NumPy practice exercises
-🌱 Currently Learning: Python · NumPy · Machine Learning Basics · AI Engineering fundamentals
-👯 Open to Collaborate On: Beginner-friendly Python and AI/ML projects
-🤔 Looking for Help With: Strengthening my Python, NumPy, and AI Engineering skills
-💬 Ask Me About: Python basics, NumPy, and starting your AI journey from scratch
-⚡ Fun Fact: I learn best by building things step by step — no shortcuts
-
+🔭 Currently Working On: Hands-on practice in Cybersecurity using platforms like TryHackMe and network analysis tools such as Wireshark
+🌱 Currently Learning: Networking (practical implementation), Cloud Security, Python, NumPy, Pandas, Matplotlib
+👯 Open to Collaborate On: Beginner-friendly Cybersecurity, Networking, and Python-based projects
+🤔 Looking for Help With: Real-world application of networking concepts, security testing, and advanced Python use cases
+💬 Ask Me About: Python basics, NumPy, Pandas, beginner Cybersecurity, and starting your tech journey
+⚡ Fun Fact: I focus on building real-world understanding — not just theory, but practical implementation
 
 🚀 Projects
-🧮 Calculator — Python
-A functional calculator built in Python covering core arithmetic operations.
 
+🧮 Calculator — Python
+A functional calculator built using Python, covering core arithmetic operations
 Focus: Python fundamentals, functions, and control flow
 
+📊 Data Handling Practice (NumPy · Pandas · Matplotlib)
+Hands-on exercises focused on data manipulation, analysis, and basic visualization
+Focus: Arrays, datasets, and foundational concepts for AI and data science
 
-📊 NumPy Practice Repository
-Hands-on NumPy exercises covering arrays, operations, and data manipulation for AI/ML foundations.
+🔐 Cybersecurity Practice
+Practical learning through TryHackMe labs and network traffic analysis using Wireshark
+Focus: Networking concepts, packet analysis, and real-world security scenarios
 
 Focus: Array operations, broadcasting, mathematical functions
 <!-- Snake Game Repo View -->
